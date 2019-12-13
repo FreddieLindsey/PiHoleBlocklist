@@ -73,6 +73,11 @@ lgad.cjpowercast.com.edgesuite.net
 smartclip.com
 smartclip.net
 smartshare.lgtvsdp.com
+gb.ad.lgsmartad.com
+gb.ibs.lgappstv.com
+gb.info.lgsmartad.com
+gb.lgtvsdp.com
+gb.rdx2.lgtvsdp.com
 us.ad.lgsmartad.com
 us.ibs.lgappstv.com
 us.info.lgsmartad.com
